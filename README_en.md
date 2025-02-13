@@ -2,7 +2,7 @@
 
 This is an example of using Yandex SpeechKit API v3 to synthesize speech.
 
-For documentation, refer to [this section](https://cloud.yandex.ru/docs/speechkit/tts/api/tts-examples-v3).
+For documentation, refer to [this section](https://yandex.cloud/en/docs/speechkit/tts/api/tts-examples-v3).
 
 ## Usage
 
